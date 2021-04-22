@@ -1,13 +1,4 @@
-# GPTutorial
 
-
-# GPTutorial
-
-In this tutorial, you will learn how to add sound to your game object and invoke it using buttons in your unity project and control it using different functions. 
-
-Step 1: Create the Game Object and Button GUI on which the audio will be played after clicking.
-
- 
 # GPTutorial
 
 In this tutorial, you will learn how to add sound to your game object and invoke it using buttons in your unity project and control it using different functions. 
