@@ -1,6 +1,9 @@
 
 # GPTutorial
 
+[Audio Tutorial Unity.docx](https://github.com/abendrot2803/GPTutorial/files/6354998/Audio.Tutorial.Unity.docx)
+
+
 In this tutorial, you will learn how to add sound to your game object and invoke it using buttons in your unity project and control it using different functions. 
 
 Step 1: Create the Game Object and Button GUI on which the audio will be played after clicking.
@@ -33,6 +36,7 @@ gameclip = GetComponent();
 gameclip.Play(); 
 } 
 } 
+
 
 Step 7: Now we can click on the playclip() function that we created to play the sound. 
 
