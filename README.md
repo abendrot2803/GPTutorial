@@ -49,16 +49,6 @@ Step 7: Now we can click on the playclip() function that we created to play the 
 
 
 
-Step 3: Link the audio to the Game Object.
-
-
-
-Step 4: Link the game object to the button by adding the game object in the onClick event of the button. 
-
-
-
-Step 5: To play the audio on clicking the button select the “audiosource” option in the functions and then select the play() option. You can select other options like pause(), playDelayed() etc as per your need.
-
 
 
 Step 6: We can also do this easily by adding the code to the game object. 
